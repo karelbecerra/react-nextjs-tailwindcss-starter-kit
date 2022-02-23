@@ -1,3 +1,7 @@
+# Gitconfig
+.gitconfig
+.DS_Store
+
 # Logs
 logs
 *.log
