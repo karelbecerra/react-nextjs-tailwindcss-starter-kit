@@ -1,4 +1,5 @@
-# Gitconfig
+# Local
+.env
 .gitconfig
 .DS_Store
 
